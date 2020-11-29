@@ -9,16 +9,9 @@ function Projects(props) {
             <h1>Projects</h1>
             <Thumbnail
                 link="/twitter"
-                image={logo}
+                image="{logo}"
                 title="Twitter Newsfeed"
                 category="Mobile App"
-            />
-
-            <Thumbnail
-                link="/airbnb"
-                image="http://airbnb-image-url.jpg>"
-                title="Airbnb Experiences"
-                category="Website"
             />
         </div>
     )

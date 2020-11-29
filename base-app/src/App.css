@@ -1,3 +1,11 @@
+.Nav {
+  text-align: right;
+}
+
+.Nav-test {
+  colour: green;
+}
+
 .App {
   text-align: center;
 }
@@ -5,6 +13,10 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.App-button-link {
+  colour: white
 }
 
 @media (prefers-reduced-motion: no-preference) {
